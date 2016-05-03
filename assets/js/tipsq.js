@@ -5,6 +5,7 @@
 **/
 document.write("<div id='div_QMiya'></div>");	
 	var QMiya = new Array();
+Qbukek[0] = "carpe diem, sieze the day";
 QMiya[0] = "Jangan menertawakan impian orang lain <i>mimin</i>";
 QMiya[1] = "Ajarkan walau satu ayat";
 QMiya[2] = "Jangan merasa bangga dengan apa yang kamu bisa dan punyai, sesungguhnya di atas langit masih ada langit";
